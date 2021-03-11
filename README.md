@@ -1,5 +1,3 @@
-## Example files for the title:  
-	  
 # PThreads Programming, by Dick Buttlar
 	  
 [![PThreads Programming, by Dick Buttlar](http://akamaicovers.oreilly.com/images/9781565921153/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781449364724//)
@@ -13,3 +11,9 @@ We appreciate, but do not require, attribution. An attribution usually includes 
 If you think your use of code examples falls outside fair use or the permission given here, feel free to contact us at <permissions@oreilly.com>.
 	  
 Please note that the examples are not production code and have not been carefully testing. They are provided "as-is" and come with no warranty of any kind.
+
+# reference
+
+[PThreads Programming, resources.oreilly.com](https://resources.oreilly.com/examples/9781565921153.git)
+
+[PThreads Programming, Errata](https://www.oreilly.com/catalog/errata.csp?isbn=9781565921153)
